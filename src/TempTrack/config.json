@@ -1,0 +1,8 @@
+﻿{
+  "MailSettings": {
+    "ToAddress": "person@gmail.com"
+  },
+  "ConnectionStrings": {
+    "WorldContextConnection": "Server=(localdb)\\MSSQLLocalDb;Database=TempTrackDb;Trusted_Connection=true;MultipleActiveResultSets=true;"
+  }
+}
